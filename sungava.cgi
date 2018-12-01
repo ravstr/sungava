@@ -33,7 +33,7 @@ if($YEAR < 100)
 {	$YEAR = $YEAR + 100;
 }
 
-# This remove the old .ram files on server
+# This removes the old .ram files on server
 
 sub song_expire	
 {
