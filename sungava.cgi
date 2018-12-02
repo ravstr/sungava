@@ -2,10 +2,6 @@
 
 use CGI qw/:standard/;
 #use DBI;
-##########################################################
-#
-# Real audio jukebox (perl)
-##########################################################
 
 
 print "Content-type:text/html\n\n";
